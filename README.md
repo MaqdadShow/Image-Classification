@@ -64,6 +64,8 @@ Built using `tensorflow.keras`:
 - ✅ Correct predictions highlighted
 - ❌ Misclassifications analyzed
 
+<img width="511" height="782" alt="image" src="https://github.com/user-attachments/assets/4086979c-8a8a-41e1-a372-663cb9cce89f" />
+
 ---
 
 ## 🚀 How to Run
@@ -78,5 +80,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Image_Classification.ipynb
 ```
-
-<img width="511" height="782" alt="image" src="https://github.com/user-attachments/assets/4086979c-8a8a-41e1-a372-663cb9cce89f" />
